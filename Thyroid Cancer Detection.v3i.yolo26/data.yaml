@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 9
+names: ['TC', 'abnormal', 'fibrocollagenous tissue', 'fibromuscular tissue', 'inflammatory cell', 'lymphoid', 'normal', 'rbc', 'stroma']
+
+roboflow:
+  workspace: thesis-yczhj
+  project: thyroid-cancer-detection-j8r8b
+  version: 3
+  license: Public Domain
+  url: https://universe.roboflow.com/thesis-yczhj/thyroid-cancer-detection-j8r8b/dataset/3
