@@ -19,7 +19,7 @@ Our goals for this study included:
 The dataset used in this project comes from the [Roboflow Univerese repository](https://universe.roboflow.com/thesis-yczhj/thyroid-cancer-detection-j8r8b) and contains 533 annotated histopathology images of thyroid tissue with bounding box annotated histopathology images of thyroid tissue with bounding box annotations for object detection tasks.
 
 The original dataset contained 9 classes:
-- TC (thyroid cancer)
+- Thyroid Cancer (TC)
 - Abnormal
 - Fibrocollagenous Tissue
 - Fibromuscular Tissue
