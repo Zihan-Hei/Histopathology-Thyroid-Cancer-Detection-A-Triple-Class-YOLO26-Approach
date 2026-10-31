@@ -1,4 +1,11 @@
-# Histopathology-Thyroid-Cancer-Detection-A-Triple-Class-YOLO26-Approach
+# Histopathology Thyroid Cancer Detection: A Triple Class YOLO26 Approach
+
+**Authors:** Zihan Hei, Grace Scalzi, Gregory Hallenbeck
+
+**Affiliation:** Binghamton University, State University of New York
+
+---
+
 
 **Overview**
 
