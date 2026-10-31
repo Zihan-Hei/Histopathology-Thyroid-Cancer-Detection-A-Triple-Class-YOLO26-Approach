@@ -1,0 +1,11 @@
+
+path: /content/drive/MyDrive/Thyroid cancer detectation model training/thyroid_3class_aug
+
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: TC
+  1: abnormal
+  2: normal
